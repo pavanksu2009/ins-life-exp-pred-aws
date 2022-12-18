@@ -12,6 +12,9 @@ ipykernel = "*"
 anaconda = "*"
 pandas = "*"
 seaborn = "*"
+numpy = "*"
+joblib = "*"
+gunicorn = "*"
 
 [dev-packages]
 
